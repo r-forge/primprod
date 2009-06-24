@@ -1,0 +1,12 @@
+Package: primprod
+Version: 1.0
+Title: Modelling Primary production based on P-I curves
+Author: Tom Cox <t.cox@nioo.knaw.nl>,
+        Karline Soetaert <k.soetaert@nioo.knaw.nl>,
+Maintainer: Tom Cox <t.cox@nioo.knaw.nl>
+Depends: R (>= 2.01), FME
+Description: Functions that fit P-I curves to several models
+             of the Platt family.
+License: GPL
+LazyData: yes
+

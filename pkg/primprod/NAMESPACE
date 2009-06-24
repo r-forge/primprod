@@ -1,0 +1,3 @@
+export( alfamod, Pmmod)
+
+export( EP,Platt,PEmod,PEmod2,PEmodFlynn)
